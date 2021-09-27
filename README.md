@@ -3,7 +3,7 @@ Program for moving the origin of coordinates for maximum destruction of targets
 
 # **Описание задачи**
 
-[сайт задачи](https://acm.timus.ru/problem.aspx?space=1&num=1942)
+[Сайт задачи](https://acm.timus.ru/problem.aspx?space=1&num=1942)
 
 Боевой космический корабль «Рикенбакер» приближался к планете Оркут, последнему оплоту враждебной расы шодан. 
 Преимущество было на стороне «Рикенбакера» — весь космический флот шодан уже был уничтожен. 
