@@ -35,6 +35,6 @@ Program for moving the origin of coordinates for maximum destruction of targets
 Ввод            | Выход
 ----------------|----------------------
 3               | 2 0.53852
-0.500 0.200     |
-0.500 0.500     |
--0.500 0.200    | 
+0.500 0.200     
+0.500 0.500     
+-0.500 0.200     
